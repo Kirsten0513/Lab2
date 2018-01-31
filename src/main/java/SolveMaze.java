@@ -24,7 +24,7 @@ public class SolveMaze {
 
         /*
          * Pick (0, 0), the bottom left corner, as the starting point.
-         * Put the end in the top right corner.
+         * Put the end in the top right corner.11
          */
         maze.startAtZero();
         maze.endAtTopRight();
